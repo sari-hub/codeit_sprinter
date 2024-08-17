@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jaal-project/sogam.md",
+                "file": "jaal-project/day2/sogam.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jaal-project/sogam.md",
+                "file": "jaal-project/day2/sogam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jaal-project/sogam.md",
+                "file": "jaal-project/day2/sogam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jaal-project/sogam.md"
+                "file": "jaal-project/day2/sogam.md"
               }
             }
           }
@@ -150,6 +150,6 @@
   "lastOpenFiles": [
     "jaal-project/day1/sogam.md",
     "jaal-project/day2",
-    "jaal-project/sogam.md"
+    "jaal-project/day2/sogam.md"
   ]
 }
