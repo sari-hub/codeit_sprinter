@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ca71a5f1056a7459",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d83123d88557e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb9e25db1fbc825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jaal-project/sogam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3346d3bb4d05267b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b663f1464f49841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a60db2815a47ef6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43f32996d58c3577",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b72f7eaaf553801b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b7ca0a0a7f19ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8f89ad68849b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d5efeb34f0d32c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "jaal-project/sogam.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd74e0c15cddec9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "jaal-project/sogam.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5afc6e462da9741e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "245a3a45c89cf773",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "jaal-project/sogam.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "a60db2815a47ef6c",
+  "lastOpenFiles": [
+    "jaal-project/day1/sogam.md",
+    "jaal-project/day2",
+    "jaal-project/sogam.md"
+  ]
+}
